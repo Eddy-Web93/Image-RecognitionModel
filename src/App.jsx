@@ -27,7 +27,7 @@ const particleOptions = {
     },
     modes: {
       push: {
-        quantity: 4,
+        quantity: 5,
       },
       repulse: {
         distance: 200,
@@ -59,7 +59,7 @@ const particleOptions = {
     number: {
       density: {
         enable: true,
-        area: 800,
+        area: 900,
       },
       value: 125,
     },
